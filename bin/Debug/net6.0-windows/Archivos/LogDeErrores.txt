@@ -1,0 +1,1335 @@
+
+
+Fecha del error: 27/6/2023 12:27:47
+Descripcion: No se encontro ningun usuario
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 27/6/2023 12:27:54
+Descripcion: No se encontro ningun usuario
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 27/6/2023 12:27:56
+Descripcion: No se encontro ningun usuario
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 21:40:46
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 21:42:44
+Descripcion: El nombre de usuario no cumple los requisitos.
+Sucedio en el metodo: private void btnAcceder_Click(object sender, EventArgs e)
+
+
+Fecha del error: 29/6/2023 21:47:07
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 21:47:08
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 21:47:09
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 21:47:09
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 21:47:12
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 21:47:12
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 21:47:13
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 21:47:13
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:04:10
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:04:10
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:26:00
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:26:00
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:28:56
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:28:56
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:28:57
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:28:57
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:28:58
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:28:58
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:28:58
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:28:58
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:28:58
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:28:58
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:28:58
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:28:58
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:28:58
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:28:58
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:28:58
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:28:58
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:28:59
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:28:59
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:28:59
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:28:59
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:28:59
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:28:59
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:28:59
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:28:59
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:28:59
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:28:59
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:29:00
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:29:00
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:29:00
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:29:00
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:29:00
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:29:00
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:29:00
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:29:00
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:29:00
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:29:00
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:29:00
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:29:00
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:29:00
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:29:00
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:29:01
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:29:01
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:29:01
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:29:01
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:29:01
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:29:01
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 29/6/2023 23:29:01
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 29/6/2023 23:29:01
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 00:00:56
+Descripcion: No se pudo leer el archivo json filename:1
+Sucedio en el metodo: private async void MainMenu_Load(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 00:00:57
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 00:00:57
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 00:01:16
+Descripcion: Each parameter in the deserialization constructor on type 'biblioteca.ConfiguracionInicio' must bind to an object property or field on deserialization. Each parameter name must match with a property or field on the object. The match can be case-insensitive.
+Sucedio en el metodo: private async void MainMenu_Load(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 00:01:17
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 00:01:17
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 00:04:54
+Descripcion: No se pudo leer el archivo json filename:1
+Sucedio en el metodo: private async void MainMenu_Load(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 00:06:03
+Descripcion: Each parameter in the deserialization constructor on type 'biblioteca.ConfiguracionInicio' must bind to an object property or field on deserialization. Each parameter name must match with a property or field on the object. The match can be case-insensitive.
+Sucedio en el metodo: private async void MainMenu_Load(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 00:09:17
+Descripcion: Each parameter in the deserialization constructor on type 'biblioteca.ConfiguracionInicio' must bind to an object property or field on deserialization. Each parameter name must match with a property or field on the object. The match can be case-insensitive.
+Sucedio en el metodo: private async void MainMenu_Load(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 00:22:47
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 00:22:47
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 00:22:57
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 00:22:57
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 00:23:02
+Descripcion: Each parameter in the deserialization constructor on type 'biblioteca.ConfiguracionInicio' must bind to an object property or field on deserialization. Each parameter name must match with a property or field on the object. The match can be case-insensitive.
+Sucedio en el metodo: private async void MainMenu_Load(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 00:23:04
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 00:23:04
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 00:26:12
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 00:26:12
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 00:26:20
+Descripcion: Each parameter in the deserialization constructor on type 'biblioteca.ConfiguracionInicio' must bind to an object property or field on deserialization. Each parameter name must match with a property or field on the object. The match can be case-insensitive.
+Sucedio en el metodo: private async void MainMenu_Load(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 00:26:22
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 00:26:22
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 11:32:28
+Descripcion: Each parameter in the deserialization constructor on type 'biblioteca.ConfiguracionInicio' must bind to an object property or field on deserialization. Each parameter name must match with a property or field on the object. The match can be case-insensitive.
+Sucedio en el metodo: private async void MainMenu_Load(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 11:32:35
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 11:32:35
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 11:35:19
+Descripcion: Each parameter in the deserialization constructor on type 'biblioteca.ConfiguracionInicio' must bind to an object property or field on deserialization. Each parameter name must match with a property or field on the object. The match can be case-insensitive.
+Sucedio en el metodo: private async void MainMenu_Load(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 11:42:08
+Descripcion: Each parameter in the deserialization constructor on type 'biblioteca.ConfiguracionInicio' must bind to an object property or field on deserialization. Each parameter name must match with a property or field on the object. The match can be case-insensitive.
+Sucedio en el metodo: private async void MainMenu_Load(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 11:42:11
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 11:42:11
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 11:42:19
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 11:42:19
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 11:42:24
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 11:42:24
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 12:54:08
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 12:54:08
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 12:54:12
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 12:54:12
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 12:54:24
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 12:54:24
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 12:55:34
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 12:55:34
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 12:56:11
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 12:56:11
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 12:56:19
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 12:56:19
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 12:56:50
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 12:56:50
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 12:56:59
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 12:56:59
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:03:10
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:03:10
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:03:14
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:03:14
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:03:15
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:03:15
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:03:32
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:03:32
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:03:36
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:03:36
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:04:50
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:04:51
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:05:32
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:05:32
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:05:33
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:05:33
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:05:34
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:05:34
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:05:34
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:05:34
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:05:34
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:05:34
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:05:35
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:05:35
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:05:35
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:05:35
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:05:35
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:05:35
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:05:35
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:05:35
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:05:35
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:05:35
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:05:35
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:05:35
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:05:35
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:05:35
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:05:36
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:05:36
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:05:36
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:05:36
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:05:36
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:05:36
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:05:36
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:05:36
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:05:37
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:05:37
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:05:37
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:05:37
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:06:49
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:06:49
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:07:28
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:07:28
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:07:29
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:07:29
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:07:29
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:07:29
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:07:29
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:07:30
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:07:30
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:07:30
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:07:31
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:07:31
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:09:52
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:09:52
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:10:10
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:10:10
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:11:29
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:11:29
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 13:11:29
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 13:11:29
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: aprivate void CargarDatos()
+
+
+Fecha del error: 30/6/2023 18:29:25
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:29:25
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void CargarDatos()
+
+
+Fecha del error: 30/6/2023 18:29:27
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:29:27
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void CargarDatos()
+
+
+Fecha del error: 30/6/2023 18:29:36
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:29:36
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void CargarDatos()
+
+
+Fecha del error: 30/6/2023 18:30:29
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:29
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:32
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:32
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:32
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:32
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:32
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:32
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:32
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:32
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:35
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:35
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:35
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:35
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:35
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:35
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:35
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:35
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:35
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:35
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:35
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:35
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:36
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:36
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:36
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:36
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:36
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:36
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:36
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:36
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:36
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:36
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:36
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:37
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:37
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:37
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:37
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:37
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 18:30:37
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 18:30:37
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 21:04:15
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 21:04:15
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void CargarDatos()
+
+
+Fecha del error: 30/6/2023 21:04:28
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 21:04:28
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 21:04:29
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 21:04:29
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 21:04:29
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 21:04:29
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 21:04:29
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 21:04:29
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 30/6/2023 21:04:30
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 30/6/2023 21:04:30
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 4/7/2023 20:36:11
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 4/7/2023 20:36:11
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void CargarDatos()
+
+
+Fecha del error: 4/7/2023 20:36:16
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 4/7/2023 20:36:16
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void CargarDatos()
+
+
+Fecha del error: 4/7/2023 20:36:19
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 4/7/2023 20:36:20
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void CargarDatos()
+
+
+Fecha del error: 4/7/2023 20:36:29
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 4/7/2023 20:36:29
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 4/7/2023 20:36:30
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 4/7/2023 20:36:30
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 4/7/2023 20:36:30
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 4/7/2023 20:36:30
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 4/7/2023 20:38:46
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 4/7/2023 20:38:46
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void CargarDatos()
+
+
+Fecha del error: 4/7/2023 20:38:58
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 4/7/2023 20:38:58
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 4/7/2023 20:38:58
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 4/7/2023 20:38:58
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 4/7/2023 20:38:58
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 4/7/2023 20:38:58
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 4/7/2023 20:38:58
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 4/7/2023 20:38:58
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void btnCargar_Click(object sender, EventArgs e)
+
+
+Fecha del error: 4/7/2023 20:39:08
+Descripcion: No se encontro ningun usuario o cliente con esa id-1
+Sucedio en el metodo: public List<Cliente> TraerAsync()
+
+
+Fecha del error: 4/7/2023 20:39:08
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void CargarDatos()
+
+
+Fecha del error: 4/7/2023 20:47:00
+Descripcion: No se encontro un cliente con esa id
+Sucedio en el metodo: private void CargarDatos()
+
+
+Fecha del error: 13/7/2023 19:20:05
+Descripcion: El nombre de usuario no cumple los requisitos, minimo 5 caracteres.
+Sucedio en el metodo: private void btnAcceder_Click(object sender, EventArgs e)
